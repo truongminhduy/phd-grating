@@ -1,3 +1,4 @@
++ Install getdp and gmsh and update the path leading to getdp and gmsh in the main*.py files.
 + Run the main file "main_k00.py" and "main_k05.py"  in order to obtain data.
 + Run 6 files "plot_direct_1.py", "plot_eigen_improve.py", "plot_eigen_improve_2.py", "plot_energy_compare.py", "plot_direct_2.py" and "plot_compare_absorption.py" to plot the figures from data.
 

@@ -2,13 +2,14 @@
 
 *Application of DQNM expansion for electromagnetic fields in the structure of diffraction grating.*
 
-*Python and C++(for getdp and gmsh) code that reproduce the numerical results in the paper [doi:10.1109/COMPUMAG45669.2019.9032834](https://ieeexplore.ieee.org/document/9032834) and PhD manuscript [arXiv:2009.01307](https://arxiv.org/abs/2009.01307)*
+*Python and C++(for getdp and gmsh) code that reproduces the numerical results in the paper [doi:10.1109/COMPUMAG45669.2019.9032834](https://ieeexplore.ieee.org/document/9032834) and PhD manuscript [arXiv:2009.01307](https://arxiv.org/abs/2009.01307)*
 
 ## Affiliation
 
 Minh Duy TRUONG: [minhduy.truong@fresnel.com](minhduy.truong@fresnel.com)
 
 Aix Marseille Univ, CNRS, Centrale Marseille, Institut Fresnel, F-13013 Marseille, France
+
 Athena team
 
 ## Instruction
